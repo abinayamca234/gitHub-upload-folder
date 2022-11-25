@@ -1,0 +1,17 @@
+Github folder upload and edit file command
+
+
+
+
+git init
+git add .
+git status
+git commit -m "sample commit"
+git remote add origin https://github.com/abinayamca234/samplecode.git
+git push -u origin master
+
+Edit file command
+git status
+git commit -m "sample second commit"
+ git push
+git push -u origin master
